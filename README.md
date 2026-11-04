@@ -11,4 +11,4 @@ This repository demonstrates the basic Git workflow:
 
 ## Purpose
 
-This project was created for DCIT323 Lab 1.# git-assignment-1
+This project was created for DCIT323 Lab 1.# git-assignment1
